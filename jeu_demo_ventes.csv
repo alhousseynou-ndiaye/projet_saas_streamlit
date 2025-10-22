@@ -1,0 +1,301 @@
+date,commande_id,client,pays,produit,quantite,categorie,prix_unitaire
+2024-01-02,C-1063,Client 116,France,"Écran 27""",3,Moniteurs,249.0
+2024-01-02,C-1263,Client 091,Suisse,Dock USB-C,5,Accessoires,79.0
+2024-01-02,C-1206,Client 022,France,"Écran 24""",3,Moniteurs,149.0
+2024-01-05,C-1128,Client 086,France,Clavier,2,Périphériques,29.9
+2024-01-09,C-1269,Client 033,Belgique,Dock USB-C,5,Accessoires,79.0
+2024-01-09,C-1097,Client 039,Italie,SSD 1To,3,Stockage,199.0
+2024-01-13,C-1151,Client 108,France,SSD 1To,1,Stockage,199.0
+2024-01-14,C-1050,Client 006,Suisse,SSD 1To,5,Stockage,199.0
+2024-01-15,C-1092,Client 033,Allemagne,SSD 1To,5,Stockage,199.0
+2024-01-15,C-1134,Client 022,France,Clavier,4,Périphériques,29.9
+2024-01-21,C-1044,Client 044,France,"Écran 27""",4,Moniteurs,249.0
+2024-01-21,C-1006,Client 007,France,Dock USB-C,4,Accessoires,79.0
+2024-01-22,C-1025,Client 027,Belgique,Dock USB-C,4,Accessoires,79.0
+2024-01-28,C-1109,Client 057,Italie,Casque,4,Audio,49.0
+2024-01-28,C-1164,Client 040,France,"Écran 27""",3,Moniteurs,249.0
+2024-01-29,C-1149,Client 053,France,Webcam,4,Vidéo,99.0
+2024-02-02,C-1114,Client 008,France,Clavier,2,Périphériques,29.9
+2024-02-04,C-1123,Client 098,France,Dock USB-C,4,Accessoires,79.0
+2024-02-04,C-1058,Client 053,France,SSD 1To,4,Stockage,199.0
+2024-02-05,C-1150,Client 060,France,Casque,5,Audio,49.0
+2024-02-06,C-1267,Client 050,France,Dock USB-C,1,Accessoires,79.0
+2024-02-08,C-1249,Client 058,Espagne,"Écran 24""",5,Moniteurs,149.0
+2024-02-10,C-1090,Client 017,Belgique,Clavier,2,Périphériques,29.9
+2024-02-10,C-1108,Client 007,Espagne,Casque,2,Audio,49.0
+2024-02-11,C-1136,Client 058,Suisse,Webcam,2,Vidéo,99.0
+2024-02-13,C-1166,Client 016,Espagne,Clavier,4,Périphériques,29.9
+2024-02-13,C-1070,Client 018,France,Dock USB-C,1,Accessoires,79.0
+2024-02-14,C-1160,Client 094,France,Dock USB-C,2,Accessoires,79.0
+2024-02-17,C-1115,Client 110,France,"Écran 27""",3,Moniteurs,249.0
+2024-02-18,C-1029,Client 030,France,Clavier,1,Périphériques,29.9
+2024-02-19,C-1061,Client 060,France,Clavier,1,Périphériques,29.9
+2024-02-20,C-1036,Client 061,Belgique,Dock USB-C,5,Accessoires,79.0
+2024-02-21,C-1142,Client 015,France,SSD 1To,5,Stockage,199.0
+2024-02-21,C-1197,Client 109,Espagne,Webcam,1,Vidéo,99.0
+2024-02-22,C-1085,Client 066,Espagne,Clavier,3,Périphériques,29.9
+2024-02-22,C-1054,Client 024,Allemagne,Souris,3,Périphériques,19.9
+2024-02-22,C-1215,Client 086,Espagne,Souris,5,Périphériques,19.9
+2024-02-23,C-1064,Client 063,Suisse,Clavier,3,Périphériques,29.9
+2024-02-23,C-1277,Client 065,Suisse,SSD 1To,2,Stockage,199.0
+2024-02-23,C-1209,Client 067,Suisse,Casque,4,Audio,49.0
+2024-02-24,C-1038,Client 019,France,Dock USB-C,3,Accessoires,79.0
+2024-02-28,C-1030,Client 097,Italie,"Écran 24""",5,Moniteurs,149.0
+2024-02-29,C-1262,Client 032,France,Clavier,3,Périphériques,29.9
+2024-03-02,C-1116,Client 016,Espagne,Souris,1,Périphériques,19.9
+2024-03-02,C-1161,Client 047,France,Webcam,4,Vidéo,99.0
+2024-03-03,C-1101,Client 026,France,Dock USB-C,5,Accessoires,79.0
+2024-03-03,C-1138,Client 049,France,Souris,5,Périphériques,19.9
+2024-03-05,C-1094,Client 043,Suisse,"Écran 24""",3,Moniteurs,149.0
+2024-03-06,C-1158,Client 096,Espagne,Clavier,4,Périphériques,29.9
+2024-03-08,C-1299,Client 090,Allemagne,Souris,5,Périphériques,19.9
+2024-03-12,C-1004,Client 020,France,Webcam,3,Vidéo,99.0
+2024-03-15,C-1281,Client 043,Suisse,Clavier,3,Périphériques,29.9
+2024-03-21,C-1060,Client 099,Allemagne,"Écran 24""",5,Moniteurs,149.0
+2024-03-21,C-1203,Client 064,France,Webcam,2,Vidéo,99.0
+2024-03-21,C-1103,Client 050,France,Dock USB-C,2,Accessoires,79.0
+2024-03-26,C-1156,Client 006,Suisse,Webcam,2,Vidéo,99.0
+2024-03-28,C-1011,Client 076,Suisse,Casque,5,Audio,49.0
+2024-03-29,C-1048,Client 046,France,Dock USB-C,4,Accessoires,79.0
+2024-04-01,C-1056,Client 113,Allemagne,Souris,4,Périphériques,19.9
+2024-04-05,C-1192,Client 096,Suisse,Webcam,1,Vidéo,99.0
+2024-04-05,C-1143,Client 054,Espagne,Casque,2,Audio,49.0
+2024-04-06,C-1233,Client 085,France,Webcam,4,Vidéo,99.0
+2024-04-07,C-1229,Client 016,Allemagne,Dock USB-C,5,Accessoires,79.0
+2024-04-08,C-1256,Client 024,France,Dock USB-C,1,Accessoires,79.0
+2024-04-08,C-1119,Client 115,France,SSD 1To,5,Stockage,199.0
+2024-04-08,C-1288,Client 002,France,Souris,5,Périphériques,19.9
+2024-04-08,C-1271,Client 061,Espagne,Clavier,5,Périphériques,29.9
+2024-04-09,C-1012,Client 059,Suisse,Dock USB-C,1,Accessoires,79.0
+2024-04-10,C-1201,Client 061,Allemagne,Souris,5,Périphériques,19.9
+2024-04-10,C-1125,Client 032,France,Casque,2,Audio,49.0
+2024-04-12,C-1007,Client 067,France,Clavier,3,Périphériques,29.9
+2024-04-12,C-1000,Client 033,France,"Écran 24""",3,Moniteurs,149.0
+2024-04-13,C-1283,Client 029,Belgique,Clavier,5,Périphériques,29.9
+2024-04-15,C-1065,Client 085,Allemagne,Clavier,5,Périphériques,29.9
+2024-04-16,C-1003,Client 048,Espagne,"Écran 24""",1,Moniteurs,149.0
+2024-04-17,C-1165,Client 052,Allemagne,Dock USB-C,5,Accessoires,79.0
+2024-04-21,C-1261,Client 092,Espagne,Webcam,2,Vidéo,99.0
+2024-04-21,C-1287,Client 046,France,"Écran 27""",4,Moniteurs,249.0
+2024-04-22,C-1195,Client 089,France,"Écran 27""",5,Moniteurs,249.0
+2024-04-22,C-1205,Client 069,France,Casque,3,Audio,49.0
+2024-04-22,C-1200,Client 016,Allemagne,"Écran 27""",1,Moniteurs,249.0
+2024-04-22,C-1202,Client 103,France,Casque,3,Audio,49.0
+2024-04-22,C-1282,Client 044,France,"Écran 27""",5,Moniteurs,249.0
+2024-04-25,C-1280,Client 074,Allemagne,Webcam,2,Vidéo,99.0
+2024-04-25,C-1177,Client 055,Allemagne,Souris,2,Périphériques,19.9
+2024-04-29,C-1278,Client 033,France,Webcam,3,Vidéo,99.0
+2024-04-30,C-1176,Client 058,France,Souris,3,Périphériques,19.9
+2024-05-01,C-1008,Client 017,Italie,Dock USB-C,3,Accessoires,79.0
+2024-05-02,C-1224,Client 110,France,Casque,1,Audio,49.0
+2024-05-03,C-1235,Client 100,Espagne,"Écran 24""",2,Moniteurs,149.0
+2024-05-05,C-1213,Client 051,Espagne,Casque,4,Audio,49.0
+2024-05-07,C-1170,Client 030,Belgique,Casque,5,Audio,49.0
+2024-05-07,C-1248,Client 019,Suisse,Clavier,3,Périphériques,29.9
+2024-05-08,C-1252,Client 069,France,Clavier,3,Périphériques,29.9
+2024-05-08,C-1099,Client 042,France,Clavier,4,Périphériques,29.9
+2024-05-09,C-1207,Client 093,Suisse,"Écran 24""",2,Moniteurs,149.0
+2024-05-09,C-1214,Client 101,France,Dock USB-C,3,Accessoires,79.0
+2024-05-10,C-1126,Client 087,Suisse,"Écran 27""",5,Moniteurs,249.0
+2024-05-10,C-1275,Client 012,Suisse,Webcam,2,Vidéo,99.0
+2024-05-10,C-1041,Client 064,France,Casque,3,Audio,49.0
+2024-05-10,C-1015,Client 119,France,Webcam,3,Vidéo,99.0
+2024-05-13,C-1162,Client 099,France,Casque,3,Audio,49.0
+2024-05-14,C-1043,Client 017,Allemagne,"Écran 24""",2,Moniteurs,149.0
+2024-05-14,C-1110,Client 036,Italie,Dock USB-C,1,Accessoires,79.0
+2024-05-15,C-1100,Client 119,Espagne,"Écran 27""",5,Moniteurs,249.0
+2024-05-16,C-1182,Client 062,Espagne,Dock USB-C,4,Accessoires,79.0
+2024-05-18,C-1102,Client 099,France,"Écran 24""",1,Moniteurs,149.0
+2024-05-19,C-1266,Client 012,Suisse,Souris,4,Périphériques,19.9
+2024-05-22,C-1147,Client 097,France,Dock USB-C,3,Accessoires,79.0
+2024-05-23,C-1259,Client 002,France,Dock USB-C,4,Accessoires,79.0
+2024-05-23,C-1232,Client 048,France,Clavier,1,Périphériques,29.9
+2024-05-26,C-1243,Client 100,Italie,SSD 1To,2,Stockage,199.0
+2024-05-26,C-1272,Client 051,Belgique,Clavier,2,Périphériques,29.9
+2024-05-27,C-1244,Client 034,Suisse,"Écran 27""",5,Moniteurs,249.0
+2024-05-27,C-1240,Client 010,Allemagne,SSD 1To,1,Stockage,199.0
+2024-05-29,C-1016,Client 022,Suisse,Casque,2,Audio,49.0
+2024-05-30,C-1254,Client 004,Allemagne,Casque,3,Audio,49.0
+2024-05-31,C-1014,Client 086,France,Souris,5,Périphériques,19.9
+2024-05-31,C-1276,Client 067,Suisse,Casque,4,Audio,49.0
+2024-05-31,C-1189,Client 001,Suisse,SSD 1To,5,Stockage,199.0
+2024-06-01,C-1289,Client 115,Belgique,Clavier,1,Périphériques,29.9
+2024-06-05,C-1091,Client 104,France,SSD 1To,1,Stockage,199.0
+2024-06-08,C-1268,Client 035,France,"Écran 24""",4,Moniteurs,149.0
+2024-06-08,C-1152,Client 108,Espagne,Souris,5,Périphériques,19.9
+2024-06-08,C-1191,Client 034,Espagne,SSD 1To,2,Stockage,199.0
+2024-06-08,C-1218,Client 078,Belgique,Dock USB-C,3,Accessoires,79.0
+2024-06-09,C-1023,Client 054,France,Dock USB-C,1,Accessoires,79.0
+2024-06-09,C-1298,Client 074,Italie,Webcam,4,Vidéo,99.0
+2024-06-09,C-1279,Client 040,France,"Écran 27""",2,Moniteurs,249.0
+2024-06-10,C-1071,Client 025,Espagne,Webcam,4,Vidéo,99.0
+2024-06-11,C-1104,Client 025,France,Casque,5,Audio,49.0
+2024-06-11,C-1295,Client 008,France,Casque,1,Audio,49.0
+2024-06-13,C-1184,Client 009,Italie,"Écran 27""",3,Moniteurs,249.0
+2024-06-15,C-1046,Client 030,Italie,Casque,2,Audio,49.0
+2024-06-17,C-1297,Client 026,Espagne,Souris,1,Périphériques,19.9
+2024-06-18,C-1031,Client 028,Allemagne,Clavier,3,Périphériques,29.9
+2024-06-18,C-1159,Client 116,France,"Écran 24""",2,Moniteurs,149.0
+2024-06-19,C-1148,Client 008,France,Casque,2,Audio,49.0
+2024-06-20,C-1188,Client 058,Espagne,"Écran 27""",3,Moniteurs,249.0
+2024-06-20,C-1120,Client 087,France,SSD 1To,1,Stockage,199.0
+2024-06-20,C-1216,Client 057,France,SSD 1To,4,Stockage,199.0
+2024-06-23,C-1035,Client 069,Belgique,Souris,1,Périphériques,19.9
+2024-06-27,C-1137,Client 086,France,Webcam,1,Vidéo,99.0
+2024-06-28,C-1194,Client 048,Italie,SSD 1To,2,Stockage,199.0
+2024-07-02,C-1223,Client 094,France,Dock USB-C,1,Accessoires,79.0
+2024-07-05,C-1204,Client 063,Espagne,Casque,1,Audio,49.0
+2024-07-05,C-1236,Client 033,Belgique,Casque,1,Audio,49.0
+2024-07-05,C-1154,Client 103,Espagne,"Écran 24""",5,Moniteurs,149.0
+2024-07-06,C-1089,Client 090,France,Casque,2,Audio,49.0
+2024-07-06,C-1032,Client 111,France,"Écran 24""",3,Moniteurs,149.0
+2024-07-07,C-1005,Client 008,Italie,Dock USB-C,3,Accessoires,79.0
+2024-07-08,C-1034,Client 097,Espagne,Clavier,5,Périphériques,29.9
+2024-07-08,C-1173,Client 063,France,Dock USB-C,4,Accessoires,79.0
+2024-07-08,C-1079,Client 024,France,"Écran 24""",2,Moniteurs,149.0
+2024-07-09,C-1068,Client 033,Italie,Webcam,3,Vidéo,99.0
+2024-07-10,C-1021,Client 109,Espagne,"Écran 24""",1,Moniteurs,149.0
+2024-07-12,C-1293,Client 081,France,Clavier,1,Périphériques,29.9
+2024-07-16,C-1219,Client 092,Italie,SSD 1To,1,Stockage,199.0
+2024-07-16,C-1230,Client 090,France,Souris,1,Périphériques,19.9
+2024-07-16,C-1181,Client 117,Allemagne,Clavier,4,Périphériques,29.9
+2024-07-17,C-1246,Client 095,France,Webcam,3,Vidéo,99.0
+2024-07-19,C-1234,Client 039,Belgique,SSD 1To,3,Stockage,199.0
+2024-07-19,C-1111,Client 045,France,Souris,2,Périphériques,19.9
+2024-07-20,C-1072,Client 106,Belgique,Casque,2,Audio,49.0
+2024-07-21,C-1222,Client 113,Allemagne,Souris,2,Périphériques,19.9
+2024-07-24,C-1059,Client 095,France,Souris,2,Périphériques,19.9
+2024-07-25,C-1133,Client 062,Italie,Clavier,2,Périphériques,29.9
+2024-07-26,C-1296,Client 093,France,Dock USB-C,2,Accessoires,79.0
+2024-07-26,C-1082,Client 047,Allemagne,"Écran 27""",5,Moniteurs,249.0
+2024-07-26,C-1274,Client 101,Espagne,Dock USB-C,5,Accessoires,79.0
+2024-07-31,C-1081,Client 032,Espagne,Dock USB-C,1,Accessoires,79.0
+2024-08-01,C-1122,Client 092,Belgique,SSD 1To,3,Stockage,199.0
+2024-08-02,C-1077,Client 104,France,Dock USB-C,5,Accessoires,79.0
+2024-08-02,C-1009,Client 033,Suisse,SSD 1To,1,Stockage,199.0
+2024-08-03,C-1117,Client 014,France,Clavier,1,Périphériques,29.9
+2024-08-04,C-1087,Client 106,France,"Écran 24""",5,Moniteurs,149.0
+2024-08-05,C-1129,Client 051,France,Webcam,5,Vidéo,99.0
+2024-08-05,C-1217,Client 029,Allemagne,Dock USB-C,3,Accessoires,79.0
+2024-08-05,C-1069,Client 067,Suisse,SSD 1To,3,Stockage,199.0
+2024-08-07,C-1208,Client 119,France,Souris,5,Périphériques,19.9
+2024-08-09,C-1144,Client 107,France,Webcam,5,Vidéo,99.0
+2024-08-11,C-1211,Client 026,Suisse,"Écran 27""",3,Moniteurs,249.0
+2024-08-12,C-1212,Client 016,France,"Écran 24""",2,Moniteurs,149.0
+2024-08-12,C-1185,Client 012,Espagne,Webcam,4,Vidéo,99.0
+2024-08-12,C-1174,Client 019,Allemagne,"Écran 24""",1,Moniteurs,149.0
+2024-08-14,C-1124,Client 066,France,SSD 1To,2,Stockage,199.0
+2024-08-14,C-1286,Client 095,France,Clavier,3,Périphériques,29.9
+2024-08-18,C-1145,Client 060,Allemagne,Casque,3,Audio,49.0
+2024-08-18,C-1140,Client 042,Belgique,"Écran 27""",2,Moniteurs,249.0
+2024-08-18,C-1107,Client 060,France,"Écran 27""",4,Moniteurs,249.0
+2024-08-18,C-1172,Client 017,Allemagne,Clavier,3,Périphériques,29.9
+2024-08-20,C-1193,Client 118,Belgique,"Écran 27""",2,Moniteurs,249.0
+2024-08-20,C-1270,Client 033,France,Webcam,1,Vidéo,99.0
+2024-08-20,C-1178,Client 090,Suisse,"Écran 27""",5,Moniteurs,249.0
+2024-08-21,C-1187,Client 001,Suisse,"Écran 24""",1,Moniteurs,149.0
+2024-08-23,C-1027,Client 098,France,Casque,5,Audio,49.0
+2024-08-24,C-1083,Client 086,Allemagne,SSD 1To,3,Stockage,199.0
+2024-08-24,C-1146,Client 101,Suisse,Dock USB-C,1,Accessoires,79.0
+2024-08-27,C-1231,Client 090,France,Clavier,2,Périphériques,29.9
+2024-08-28,C-1141,Client 070,Italie,SSD 1To,4,Stockage,199.0
+2024-08-29,C-1051,Client 099,Espagne,Souris,3,Périphériques,19.9
+2024-08-30,C-1155,Client 068,Italie,Webcam,1,Vidéo,99.0
+2024-08-31,C-1039,Client 004,Suisse,"Écran 27""",2,Moniteurs,249.0
+2024-09-03,C-1220,Client 069,Suisse,Webcam,5,Vidéo,99.0
+2024-09-08,C-1088,Client 002,Belgique,Casque,4,Audio,49.0
+2024-09-08,C-1258,Client 119,France,Clavier,4,Périphériques,29.9
+2024-09-08,C-1078,Client 046,France,"Écran 24""",5,Moniteurs,149.0
+2024-09-08,C-1241,Client 118,France,"Écran 24""",2,Moniteurs,149.0
+2024-09-09,C-1026,Client 027,France,"Écran 24""",4,Moniteurs,149.0
+2024-09-10,C-1285,Client 012,Italie,"Écran 24""",3,Moniteurs,149.0
+2024-09-10,C-1265,Client 024,France,"Écran 27""",2,Moniteurs,249.0
+2024-09-11,C-1130,Client 025,Italie,Webcam,3,Vidéo,99.0
+2024-09-11,C-1225,Client 062,France,"Écran 24""",4,Moniteurs,149.0
+2024-09-13,C-1127,Client 063,France,Dock USB-C,5,Accessoires,79.0
+2024-09-14,C-1018,Client 030,Suisse,Souris,2,Périphériques,19.9
+2024-09-15,C-1179,Client 101,Belgique,Casque,1,Audio,49.0
+2024-09-15,C-1239,Client 023,France,"Écran 24""",2,Moniteurs,149.0
+2024-09-16,C-1066,Client 032,Allemagne,Clavier,1,Périphériques,29.9
+2024-09-17,C-1106,Client 013,Espagne,"Écran 27""",3,Moniteurs,249.0
+2024-09-19,C-1257,Client 080,Allemagne,SSD 1To,3,Stockage,199.0
+2024-09-20,C-1057,Client 046,France,"Écran 27""",1,Moniteurs,249.0
+2024-09-21,C-1052,Client 105,Italie,"Écran 27""",2,Moniteurs,249.0
+2024-09-23,C-1253,Client 109,Espagne,Dock USB-C,2,Accessoires,79.0
+2024-09-24,C-1198,Client 117,Allemagne,"Écran 24""",1,Moniteurs,149.0
+2024-09-24,C-1113,Client 065,France,"Écran 24""",1,Moniteurs,149.0
+2024-09-26,C-1073,Client 095,France,Dock USB-C,3,Accessoires,79.0
+2024-09-27,C-1076,Client 067,France,"Écran 27""",4,Moniteurs,249.0
+2024-09-27,C-1002,Client 021,Belgique,Casque,3,Audio,49.0
+2024-09-27,C-1033,Client 064,Italie,Webcam,3,Vidéo,99.0
+2024-09-30,C-1047,Client 093,Italie,Clavier,3,Périphériques,29.9
+2024-10-03,C-1022,Client 051,France,"Écran 27""",4,Moniteurs,249.0
+2024-10-06,C-1227,Client 069,Suisse,"Écran 27""",5,Moniteurs,249.0
+2024-10-06,C-1086,Client 027,France,Souris,4,Périphériques,19.9
+2024-10-09,C-1175,Client 092,Italie,Dock USB-C,3,Accessoires,79.0
+2024-10-09,C-1132,Client 063,Suisse,Clavier,5,Périphériques,29.9
+2024-10-10,C-1163,Client 055,France,"Écran 24""",1,Moniteurs,149.0
+2024-10-10,C-1157,Client 109,Espagne,"Écran 27""",5,Moniteurs,249.0
+2024-10-12,C-1168,Client 114,France,"Écran 27""",2,Moniteurs,249.0
+2024-10-15,C-1105,Client 024,Italie,"Écran 27""",4,Moniteurs,249.0
+2024-10-19,C-1118,Client 076,France,Souris,2,Périphériques,19.9
+2024-10-20,C-1020,Client 102,Espagne,"Écran 27""",1,Moniteurs,249.0
+2024-10-20,C-1226,Client 116,Suisse,Souris,3,Périphériques,19.9
+2024-10-21,C-1199,Client 001,Belgique,"Écran 24""",1,Moniteurs,149.0
+2024-10-22,C-1080,Client 114,Suisse,Souris,2,Périphériques,19.9
+2024-10-24,C-1255,Client 016,Espagne,"Écran 27""",2,Moniteurs,249.0
+2024-10-27,C-1093,Client 009,Italie,Dock USB-C,4,Accessoires,79.0
+2024-10-30,C-1264,Client 084,Allemagne,"Écran 27""",3,Moniteurs,249.0
+2024-10-30,C-1075,Client 058,France,Clavier,4,Périphériques,29.9
+2024-10-30,C-1273,Client 043,Suisse,Webcam,1,Vidéo,99.0
+2024-11-02,C-1042,Client 049,Italie,Webcam,2,Vidéo,99.0
+2024-11-02,C-1186,Client 117,Italie,Webcam,3,Vidéo,99.0
+2024-11-03,C-1247,Client 010,Espagne,Souris,2,Périphériques,19.9
+2024-11-04,C-1017,Client 110,Allemagne,SSD 1To,4,Stockage,199.0
+2024-11-05,C-1067,Client 087,France,Casque,5,Audio,49.0
+2024-11-05,C-1294,Client 090,Allemagne,Souris,4,Périphériques,19.9
+2024-11-09,C-1024,Client 008,Suisse,Souris,1,Périphériques,19.9
+2024-11-10,C-1190,Client 111,France,"Écran 24""",3,Moniteurs,149.0
+2024-11-11,C-1049,Client 117,Espagne,Souris,1,Périphériques,19.9
+2024-11-13,C-1196,Client 104,Belgique,"Écran 27""",1,Moniteurs,249.0
+2024-11-13,C-1183,Client 023,Allemagne,Dock USB-C,3,Accessoires,79.0
+2024-11-15,C-1040,Client 035,Suisse,Dock USB-C,1,Accessoires,79.0
+2024-11-19,C-1221,Client 047,France,Webcam,1,Vidéo,99.0
+2024-11-20,C-1228,Client 076,France,SSD 1To,1,Stockage,199.0
+2024-11-21,C-1237,Client 094,France,"Écran 24""",5,Moniteurs,149.0
+2024-11-22,C-1096,Client 048,France,"Écran 27""",2,Moniteurs,249.0
+2024-11-22,C-1153,Client 005,Suisse,SSD 1To,2,Stockage,199.0
+2024-11-23,C-1112,Client 020,France,Dock USB-C,3,Accessoires,79.0
+2024-11-24,C-1045,Client 092,Italie,Casque,1,Audio,49.0
+2024-11-26,C-1010,Client 048,France,Dock USB-C,4,Accessoires,79.0
+2024-11-26,C-1169,Client 106,France,"Écran 27""",5,Moniteurs,249.0
+2024-12-03,C-1250,Client 096,France,Webcam,2,Vidéo,99.0
+2024-12-03,C-1084,Client 023,Espagne,Casque,5,Audio,49.0
+2024-12-03,C-1292,Client 087,Allemagne,"Écran 24""",4,Moniteurs,149.0
+2024-12-05,C-1055,Client 093,Allemagne,"Écran 24""",2,Moniteurs,149.0
+2024-12-05,C-1167,Client 013,France,Clavier,3,Périphériques,29.9
+2024-12-05,C-1284,Client 013,France,Souris,2,Périphériques,19.9
+2024-12-08,C-1210,Client 076,Belgique,Casque,4,Audio,49.0
+2024-12-09,C-1098,Client 093,Italie,Casque,4,Audio,49.0
+2024-12-09,C-1019,Client 038,France,Casque,5,Audio,49.0
+2024-12-10,C-1095,Client 118,France,SSD 1To,2,Stockage,199.0
+2024-12-10,C-1028,Client 021,France,"Écran 24""",1,Moniteurs,149.0
+2024-12-11,C-1135,Client 058,Allemagne,Clavier,1,Périphériques,29.9
+2024-12-11,C-1053,Client 037,Espagne,Webcam,2,Vidéo,99.0
+2024-12-11,C-1242,Client 069,Suisse,"Écran 27""",5,Moniteurs,249.0
+2024-12-11,C-1260,Client 113,France,Casque,5,Audio,49.0
+2024-12-13,C-1171,Client 019,Belgique,Webcam,3,Vidéo,99.0
+2024-12-14,C-1290,Client 114,Allemagne,Casque,5,Audio,49.0
+2024-12-14,C-1238,Client 101,France,"Écran 24""",2,Moniteurs,149.0
+2024-12-14,C-1001,Client 014,France,"Écran 24""",2,Moniteurs,149.0
+2024-12-16,C-1074,Client 054,Espagne,Webcam,3,Vidéo,99.0
+2024-12-17,C-1139,Client 052,Allemagne,Dock USB-C,1,Accessoires,79.0
+2024-12-17,C-1245,Client 052,Italie,SSD 1To,1,Stockage,199.0
+2024-12-24,C-1131,Client 058,France,Webcam,2,Vidéo,99.0
+2024-12-24,C-1180,Client 090,France,Souris,2,Périphériques,19.9
+2024-12-25,C-1121,Client 015,France,Webcam,1,Vidéo,99.0
+2024-12-25,C-1062,Client 097,Belgique,Webcam,1,Vidéo,99.0
+2024-12-25,C-1013,Client 115,Espagne,Clavier,1,Périphériques,29.9
+2024-12-25,C-1251,Client 001,France,Souris,4,Périphériques,19.9
+2024-12-29,C-1037,Client 048,France,SSD 1To,5,Stockage,199.0
+2024-12-31,C-1291,Client 035,France,Webcam,5,Vidéo,99.0
