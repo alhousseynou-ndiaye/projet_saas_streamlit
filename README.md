@@ -1,6 +1,12 @@
-# Projet SaaS Streamlit
+# Dashboard SaaS Streamlit
 
-Mini dashboard vendable : import CSV/Excel, KPIs, filtres, graphiques, exports.
+Application Streamlit prête à montrer à un client :
+
+- Import CSV / Excel
+- KPIs (CA, commandes, panier moyen, clients uniques)
+- Filtres par date / pays / catégorie
+- Graphiques interactifs (tendance, top produits/pays, répartition)
+- Export CSV + rapport Excel
 
 ## Lancer en local
 
