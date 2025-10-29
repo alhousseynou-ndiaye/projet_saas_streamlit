@@ -1,12 +1,14 @@
-# Dashboard SaaS Streamlit
+# SaaS Dashboard – Streamlit
 
-Application Streamlit prête à montrer à un client :
-
+Outil d’analyse de données en ligne.
 - Import CSV / Excel
-- KPIs (CA, commandes, panier moyen, clients uniques)
-- Filtres par date / pays / catégorie
-- Graphiques interactifs (tendance, top produits/pays, répartition)
-- Export CSV + rapport Excel
+- KPIs automatiques
+- Graphiques interactifs
+- Export Excel
+
+🧠 Démo : [https://alhousseynou-saas.streamlit.app](https://alhousseynou-saas.streamlit.app)
+📧 Contact : alhousseynoundiaye8@gmail.com
+
 
 ## Lancer en local
 
