@@ -238,3 +238,23 @@ elif page == "📞 Contact":
 # --------- FOOTER ---------
 st.markdown("---")
 st.caption(f"© {date.today().year} — SaaS Starter (Streamlit). Personnalisation sur demande.")
+
+# =========================================
+# 📬 SECTION CONTACT
+# =========================================
+st.subheader("📬 Me contacter")
+
+with st.form(key="contact_form"):
+    name = st.text_input("Nom complet")
+    email = st.text_input("Adresse e-mail")
+    message = st.text_area("Votre message")
+
+    submitted = st.form_submit_button("Envoyer ✉️")
+
+    if submitted:
+        if name and email and message:
+            st.success("✅ Merci ! Votre message a été enregistré.")
+            st.info("👉 Vous pouvez aussi me contacter directement à : **alhousseynoundiaye8@gmail.com**")
+        else:
+            st.warning("⚠️ Veuillez remplir tous les champs avant d’envoyer.")
+
