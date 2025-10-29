@@ -10,7 +10,17 @@ import io
 from datetime import date
 
 # --------- CONFIG PAGE ---------
-st.set_page_config(page_title="SaaS Starter Dashboard", page_icon="📊", layout="wide")
+st.set_page_config(page_title="Dashboard SaaS - Alhousseynou Ndiaye", page_icon="📊")
+
+st.title("📊 Tableau de bord SaaS - Alhousseynou Ndiaye")
+st.markdown("""
+Cet outil permet d’analyser vos ventes ou vos performances en quelques clics.
+Chargez vos données Excel/CSV et obtenez automatiquement :
+- vos KPIs clés (CA, panier moyen, clients)
+- des graphiques interactifs
+- un export Excel prêt à partager
+""")
+
 
 # --------- SIDEBAR / BRANDING ---------
 with st.sidebar:
