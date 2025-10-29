@@ -216,24 +216,6 @@ elif page == "⬇️ Export & Rapport":
     st.download_button("Télécharger le Rapport Excel", buf.getvalue(), "rapport_dashboard.xlsx", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet")
     st.success("✅ Prêt à envoyer à un client.")
 
-elif page == "📞 Contact":
-    st.title("📞 Contact & À propos")
-    st.markdown("""
-    - **Prestations** : mise en place du dashboard, adaptation KPI métier, formation 1h.
-    - **Délai** : 2–5 jours selon périmètre.
-    - **Contact** : envoyez vos données d'exemple et vos besoins.
-    """)
-    with st.form("contact"):
-        c1, c2 = st.columns(2)
-        nom = c1.text_input("Nom")
-        email = c2.text_input("Email")
-        msg = st.text_area("Message / besoin")
-        ok = st.form_submit_button("Envoyer")
-    if ok:
-        if email and msg:
-            st.success("Merci ! Je vous recontacte rapidement. (Démo — branchement email à faire côté serveur)")
-        else:
-            st.warning("Renseignez au minimum votre email et un message.")
 
 # --------- FOOTER ---------
 st.markdown("---")
