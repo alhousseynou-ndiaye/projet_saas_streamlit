@@ -1,18 +1,45 @@
-# SaaS Dashboard – Streamlit
+# Data Analytics Dashboard (Streamlit)
+**Rapid data exploration & KPI prototyping tool**
 
-Outil d’analyse de données en ligne.
-- Import CSV / Excel
-- KPIs automatiques
-- Graphiques interactifs
-- Export Excel
+---
 
-🧠 Démo : [https://alhousseynou-saas.streamlit.app](https://alhousseynou-saas.streamlit.app)
-📧 Contact : alhousseynoundiaye8@gmail.com
+## Overview
 
+This project is a **lightweight data analytics dashboard** built with Streamlit to quickly explore CSV / Excel datasets and generate KPIs and visual insights.
 
-## Lancer en local
+It is designed for:
+- fast data inspection
+- metric prototyping
+- internal analytics demos
+
+Not a full SaaS product, but a **practical data tooling prototype**.
+
+---
+
+## Features
+- CSV / Excel ingestion
+- Automatic KPI computation
+- Interactive charts
+- Excel export
+- Web-based UI (Streamlit)
+
+---
+
+## Live Demo
+🔗 https://alhousseynou-saas.streamlit.app
+
+---
+
+## Tech Stack
+- Python
+- Streamlit
+- Pandas
+- Plotly
+
+---
+
+## Local Run
 
 ```bash
 pip install -r requirements.txt
-streamlit run mon_projet_saas.py
-```
+streamlit run app.py
